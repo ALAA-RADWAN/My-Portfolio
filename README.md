@@ -5,12 +5,7 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
-
 ## About me
 
 I am a self-learner with a strong career focus, excellent analytical skills, and keen attention to detail. I graduated with a degree in Biomedical Engineering and began my career as an Image Processing Developer (2019-2020), where I worked in an agile environment. Subsequently, I was employed as a teacher in the Biomedical Engineering Department at my college in Cairo (2020-2021), where I developed strong communication and problem-solving skills. I am now seeking an opportunity as a Software Tester, where I can leverage my technical background and attention to detail. I’m currently studying for the ISTQB Foundation Level Certificate, and I am eager to indirectly contribute to ensuring high-quality software delivery.
