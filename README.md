@@ -135,8 +135,8 @@ __Jira__ - __Selenium__ - __Postman__ - __Trello__ - __Zephyr__ - __Java__ - __O
 -	Tools: Trello, Zephyr Scale
 * API-End to End-Create-New-Employee-in-Company
 * API-Books-Store
-•	Screening Human Health by using Iridology Map:
-This project is used to screen human health as an early detection system in which it takes an image of human eye then segment the iris only which is divided into sectors and each sector belongs to an organ in the body where each organ is then classified whether it is normal or not by using Image Processing and Machine Learning (Classifier App.)
+*	Screening Human Health by using Iridology Map:
+- This project is used to screen human health as an early detection system in which it takes an image of human eye then segment the iris only which is divided into sectors and each sector belongs to an organ in the body where each organ is then classified whether it is normal or not by using Image Processing and Machine Learning (Classifier App.)
 -	My Role was writing the system code and communicating with hospitals to get permissions for collecting data from patients.
 •	Heart Failure disease analysis:
 -	Data Source: Kaggle.com	Tools: Excel, SQL and Tableau.
