@@ -22,7 +22,7 @@ I would be extremely happy to apply the knowledge I have gained to test an opera
 You can download my CV as [a PDF from my Google Drive]().
 
 ## Work Experience
-•	Software Test Engineer Intern at Qabilah, Remote, Sep. 2024 –Present.
+•	Software Test Engineer Intern at Qabilah, Saudi Arabia, Remote, Sep. 2024 –Present.
 -	Agile Environment: Daily Standup meeting, Preparing Scrum Project, Product backlog and sprints backlog and establish the traceability on Jira.
 -	Writing test cases on Zephyr.
 -	Applying Test execution.
