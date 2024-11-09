@@ -69,11 +69,4 @@ __Automation testing__
 
 
 ## Tools and languages
-__Jira__
-__Selenium__
-__Postman__
-__Trello__
-__Zephyr__
-__Java__
-__OOP__
-__Microsoft suite__
+__Jira__ - __Selenium__ - __Postman__ - __Trello__ - __Zephyr__ - __Java__ - __OOP__ - __Microsoft suite__
