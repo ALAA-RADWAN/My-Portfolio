@@ -95,5 +95,52 @@ __Jira__ - __Selenium__ - __Postman__ - __Trello__ - __Zephyr__ - __Java__ - __O
 
 
 ## Work Experience
+•	Software Test Engineer Intern at Qabilah, Remote, Sep. 2024 –Present.
+-	Agile Environment: Daily Standup meeting, Preparing Scrum Project, Product backlog and sprints backlog and establish the traceability on Jira.
+-	Writing test cases on Zephyr.
+-	Applying Test execution.
+-	Writing bug reports on Trello.
+- Applying confirmation and regression testing. 
+-	Writing weekly Test Progress and Test Completion Reports.
+-	Automation testing.
+
+•	Teacher, El-Shorouk Academy, Cairo, Egypt, 2020 - 2021
+-	Deliver a range of teaching and assessment activities, including tutorials, seminars, and lectures in some instances.
+-	Teaching Biomedical Subjects including Matlab, Intro to Image Processing, Radiology Medical Equipment, and Bioinformatics.
+
+•	Image Processing Developer, Millensys Company, Cairo, Egypt, 2019 – 2020
+-	Making some modifications to the tools in the company's applications for The Radiology Information System by using basic skills in languages: C#, Delphi, HTML, CSS and MVC.
 
 ## Projects
+
+•	Ton Tasks Mobile app
+-	Test Focus: The Ton App is a user-friendly task management application designed to help individuals and teams efficiently manage their daily, weekly, monthly, and yearly tasks. The app offers features such as task creation, organization, and tracking, with options to make tasks public or private.
+-	Key Areas: 
+-	Manual Testing
+-	Create a Test plan and test schedule.
+-	Applying Static Testing (For User story and Figma design) and Writing Review Notes on Jira as tasks.
+-	Prepare Scrum Project, Product backlog and sprints backlog and establish the traceability on Jira.
+-	Organize testing Epics and User stories with acceptance criteria on Jira
+-	Writing test cases on Zephyr.
+-	Applying Testing execution.
+-	Writing bug reports on Jira.
+-	Applying Confirmation testing. 
+-	Applying regression testing.  
+-	Writing Test Completion Report. 
+-	Tools:  Jira, Confluence, Zephyr Scale, MS Word, and Figma.
+
+•	Trains Booking Website
+-	Test Focus: this website allows users to search for and book train tickets online. It typically includes features for finding available trips, selecting seats and making payments.
+-	Key Areas: Manual Testing (Scenario writing, Test cases, execution and bug reports).
+-	Tools: Trello, Zephyr Scale
+* API-End to End-Create-New-Employee-in-Company
+* API-Books-Store
+•	Screening Human Health by using Iridology Map:
+This project is used to screen human health as an early detection system in which it takes an image of human eye then segment the iris only which is divided into sectors and each sector belongs to an organ in the body where each organ is then classified whether it is normal or not by using Image Processing and Machine Learning (Classifier App.)
+-	My Role was writing the system code and communicating with hospitals to get permissions for collecting data from patients.
+•	Heart Failure disease analysis:
+-	Data Source: Kaggle.com	Tools: Excel, SQL and Tableau.
+•	Hand Tracking by using Computer vision
+•	Virtual painting by using Computer vision
+•	COVID-19 Cases and Total deaths until August 2021 data analysis.
+
