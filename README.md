@@ -8,10 +8,12 @@
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 ## About me
 
-I am a self-learner with a strong career focus, excellent analytical skills, and keen attention to detail. I graduated with a degree in Biomedical Engineering and began my career as an Image Processing Developer (2019-2020), where I worked in an agile environment. Subsequently, I was employed as a teacher in the Biomedical Engineering Department at my college in Cairo (2020-2021), where I developed strong communication and problem-solving skills. I am now seeking an opportunity as a Software Tester, where I can leverage my technical background and attention to detail. I’m currently studying for the ISTQB Foundation Level Certificate, and I am eager to indirectly contribute to ensuring high-quality software delivery.
-• Visa Status: I have the right to work in The UK by tier 2 dependent Visa.
+I am a self-learner with a strong career focus, excellent analytical skills, and keen attention to detail. I graduated with a degree in Biomedical Engineering and began my career as an Image Processing Developer (2019-2020), where I worked in an agile environment. Subsequently, I was employed as a teacher in the Biomedical Engineering Department at my college in Cairo (2020-2021), where I developed strong communication and problem-solving skills.
+I am now seeking an opportunity as a Software Tester, where I can leverage my technical background and attention to detail. I’m currently studying for the ISTQB Foundation Level Certificate and am eager to contribute indirectly to ensure high-quality software delivery.
+I would be extremely happy to apply the knowledge I have gained to test an operational product and gain hands-on experience. This would be a crucial step in my current career goal of becoming a mid-level software tester in two years.
+__Visa Status: I am eligible to work in the UK as a Dependent Visa holder | No sponsorship is required.__
 
-I would be extremely happy to apply obtained knowledge to test an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+
 
 ## CV
 You can download my CV as [a PDF from my Google Drive]().
@@ -23,6 +25,7 @@ You can find examples of the described skills in the [Examples of my work](#exam
 __I've studied The ISTQB foundation level__
 
 __Manual testing__
+
 * Creating Test plan and test schedule.
 * Applying Static Testing (For User story and Figma design) and Writing Review Notes on Jira as tasks.
 *	Prepare Scrum Project, Product backlog and sprints backlog and establish the traceability on Jira.
@@ -32,7 +35,8 @@ __Manual testing__
 *	Writing bug reports on Jira and Trello.
 *	Applying Confirmation testing. 
 *	Applying regression testing.  
-*	Writing Test completion Report.
+*	Writing Test Completion Report.
+*	
 __Mobile testing__
 
 __API testing__
