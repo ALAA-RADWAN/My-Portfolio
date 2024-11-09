@@ -2,10 +2,11 @@
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
-- [Tools](#tools)
+- [Tools and languages](#tools-and-languages)
 - [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+- [Work Experience](#work-experience)
+- [Projects](#Projects)
+
 ## About me
 
 I am a self-learner with a strong career focus, excellent analytical skills, and keen attention to detail. I graduated with a degree in Biomedical Engineering and began my career as an Image Processing Developer (2019-2020), where I worked in an agile environment. Subsequently, I was employed as a teacher in the Biomedical Engineering Department at my college in Cairo (2020-2021), where I developed strong communication and problem-solving skills.
@@ -67,8 +68,12 @@ __Automation testing__
 *	Managing tests using TestNG
 
 
-## Tools
-
+## Tools and languages
 __Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
+__Selenium__
+__Postman__
+__Trello__
+__Zephyr__
+__Java__
+__OOP__
+__Microsoft suite__
