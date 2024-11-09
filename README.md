@@ -5,14 +5,14 @@
 - [Tools and languages](#tools-and-languages)
 - [Courses](#courses)
 - [Work Experience](#work-experience)
-- [Projects](#Projects)
+- [Projects](#projects)
 
 ## About me
 
 I am a self-learner with a strong career focus, excellent analytical skills, and keen attention to detail. I graduated with a degree in Biomedical Engineering and began my career as an Image Processing Developer (2019-2020), where I worked in an agile environment. Subsequently, I was employed as a teacher in the Biomedical Engineering Department at my college in Cairo (2020-2021), where I developed strong communication and problem-solving skills.
 I am now seeking an opportunity as a Software Tester, where I can leverage my technical background and attention to detail. I’m currently studying for the ISTQB Foundation Level Certificate and am eager to contribute indirectly to ensure high-quality software delivery.
 I would be extremely happy to apply the knowledge I have gained to test an operational product and gain hands-on experience. This would be a crucial step in my current career goal of becoming a mid-level software tester in two years.
-__Visa Status: I am eligible to work in the UK as a Dependent Visa holder | No sponsorship is required.__
+* __Visa Status: I am eligible to work in the UK as a Dependent Visa holder | No sponsorship is required.__
 
 
 
@@ -21,7 +21,7 @@ You can download my CV as [a PDF from my Google Drive]().
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+You can find examples of the described skills in the [Projects](#Projects) section.
 
 __I've studied The ISTQB foundation level__
 
@@ -49,10 +49,10 @@ __Agile Testing__
 * Jira framework -> Epic, User story and acceptance criteria, Planning poker, backlog, sprints, Traceability.
 
 __Exploratory testing__
-  * capable of using Whittaker’s test tours and creating test charter for testing web applications.
+  * capable of using Whittaker’s test tours and creating test charters for testing web applications.
 
 __Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively.
+  * can create test cases and checklists and know-how and in which situations to use them effectively.
   * able to prepare comprehensive bug reports and provide detailed session reports.
 
 __SQL databases__
@@ -70,3 +70,30 @@ __Automation testing__
 
 ## Tools and languages
 __Jira__ - __Selenium__ - __Postman__ - __Trello__ - __Zephyr__ - __Java__ - __OOP__ - __Microsoft suite__
+
+## Courses
+*	ISTQB Foundation Level V4.0, Udemy 2024
+*	API Crash Course, Udemy 2024
+*	Software testing Bootcamp, Nezam Academy, 2024
+-	ISTQB fundamentals.
+-	Manual Testing (Trello, Zephyr scale |Test scenarios, Test cases and Bug Report writing)
+-	Agile Testing (Jira framework | Epic, User story and acceptance criteria, Planning poker, backlog, sprints, Traceability)
+-	Mobile Testing.
+-	API Testing
+-	SQL Basics
+-	Performance Testing
+-	Automation testing basics.
+*	Test Automation Bootcamp, Nezam Academy, 2024
+-	Java Programming from scratch
+-	Object Oriented Programming
+-	Selenium Web-driver with Java
+-	Managing tests using TestNG
+*	Google Data Analytics Certificate, Coursera 2021
+*	Data analysis with Python by Spyder IDE and Jupyter, IBM, Coursera 2021
+*	SQL for data analysis, Udacity 2021
+*	Python Basic: Variables, Statements, Looping and Functions, Udemy 2021
+
+
+## Work Experience
+
+## Projects
