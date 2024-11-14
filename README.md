@@ -137,6 +137,7 @@ __Automation testing__
 • Postman course, QACart, 2024
 
 • API Crash Course, Udemy 2024
+
 • Software testing Bootcamp, Nezam Academy, 2024
 -	ISTQB fundamentals.
 -	Manual Testing (Trello, Zephyr scale |Test scenarios, Test cases and Bug Report writing)
