@@ -147,6 +147,7 @@ __Automation testing__
 -	SQL Basics
 -	Performance Testing
 -	Automation testing basics.
+  
 •	Test Automation Bootcamp, Nezam Academy, 2024
 -	Java Programming from scratch
 -	Object Oriented Programming
