@@ -61,11 +61,11 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 -	Key Areas: Manual Testing (Scenario writing, Test cases, execution and bug reports).
 -	Tools: Trello, Zephyr Scale
 	
-* API-End to End-Create-New-Employee-in-Company
+• API-End to End-Create-New-Employee-in-Company
   
-* API-Books-Store
+• API-Books-Store
   
-*	Screening Human Health by using Iridology Map:
+•	Screening Human Health by using Iridology Map:
 - This project is used to screen human health as an early detection system in which it takes an image of human eye then segment the iris only which is divided into sectors and each sector belongs to an organ in the body where each organ is then classified whether it is normal or not by using Image Processing and Machine Learning (Classifier App.)
 -	My Role was writing the system code and communicating with hospitals to get permissions for collecting data from patients.
   
@@ -78,7 +78,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 •	COVID-19 Cases and Total deaths until August 2021 data analysis.
 
 ## Tools and languages
-__Jira__ - __Selenium__ - __Postman__ - __Trello__ - __Zephyr__ - __Java__ - __OOP__ - __Microsoft suite__
+__Jira__ - __Selenium__ - __Postman__ - __Trello__ - __Zephyr__ - __Java__ - __OOP__ - __Microsoft suite__- __Basic python__- __SQL__- __Intellij__- __Trello__- __TestNG__
 
 ## Skills
 
@@ -132,10 +132,12 @@ __Automation testing__
 
 
 ## Courses
-*	ISTQB Foundation Level V4.0, Udemy 2024
-*	Postman course, QACart, 2024
-*	API Crash Course, Udemy 2024
-*	Software testing Bootcamp, Nezam Academy, 2024
+• ISTQB Foundation Level V4.0, Udemy 2024
+
+• Postman course, QACart, 2024
+
+• API Crash Course, Udemy 2024
+• Software testing Bootcamp, Nezam Academy, 2024
 -	ISTQB fundamentals.
 -	Manual Testing (Trello, Zephyr scale |Test scenarios, Test cases and Bug Report writing)
 -	Agile Testing (Jira framework | Epic, User story and acceptance criteria, Planning poker, backlog, sprints, Traceability)
@@ -144,19 +146,19 @@ __Automation testing__
 -	SQL Basics
 -	Performance Testing
 -	Automation testing basics.
-*	Test Automation Bootcamp, Nezam Academy, 2024
+•	Test Automation Bootcamp, Nezam Academy, 2024
 -	Java Programming from scratch
 -	Object Oriented Programming
 -	Selenium Web-driver with Java
 -	Managing tests using TestNG
   
-*	Google Data Analytics Certificate, Coursera 2021
+• Google Data Analytics Certificate, Coursera 2021
   
-*	Data analysis with Python by Spyder IDE and Jupyter, IBM, Coursera 2021
+• Data analysis with Python by Spyder IDE and Jupyter, IBM, Coursera 2021
   
-*	SQL for data analysis, Udacity 2021
+• SQL for data analysis, Udacity 2021
   
-*	Python Basic: Variables, Statements, Looping and Functions, Udemy 2021
+•	Python Basic: Variables, Statements, Looping and Functions, Udemy 2021
 
 
 
