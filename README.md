@@ -9,6 +9,7 @@
 
 
 
+----------------------------------------------------------------------
 ## About me
 
 I am a self-learner with a strong career focus, excellent analytical skills, and keen attention to detail. I graduated with a degree in Biomedical Engineering and began my career as an Image Processing Developer (2019-2020), where I worked in an agile environment. Subsequently, I was employed as a teacher in the Biomedical Engineering Department at my college in Cairo (2020-2021), where I developed strong communication and problem-solving skills.
@@ -17,7 +18,7 @@ I would be extremely happy to apply the knowledge I have gained to test an opera
 * __Visa Status: I am eligible to work in the UK as a Dependent Visa holder | No sponsorship is required.__
 
 
-
+----------------------------------------------------------------------
 ## CV and Portfolio
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/drive/folders/1YKygfybw3Az3fJRJKqWvdla2LScWCFhq?usp=sharing).
 
@@ -38,6 +39,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 •	Image Processing Developer, Millensys Company, Cairo, Egypt, 2019 – 2020
 -	Making some modifications to the tools in the company's applications for The Radiology Information System by using basic skills in languages: C#, Delphi, HTML, CSS and MVC.
 
+----------------------------------------------------------------------
 ## Projects
 
 •	Swag Labs E-Commercial Automation Project
@@ -47,13 +49,13 @@ Test Focus :
 
 In this project, I developed and executed automation scripts for testing the Swag Labs e-commerce application, focusing on critical user workflows and functionalities. The project included the following scenarios:
 
-Login Functionality: Verified user authentication for valid credentials.
+-	Login Functionality: Verified user authentication for valid credentials.
 
-Add Products to Cart : Automated the process of adding random products to the cart, validating the number of selected items.
+-	Add Products to Cart : Automated the process of adding random products to the cart, validating the number of selected items.
 
-Cart Management : Tested cart functionality, and ensuring the prices.
+-	Cart Management : Tested cart functionality, and ensuring the prices.
 
-Checkout Process : Verified the end-to-end checkout workflow, from entering user details to order completion, ensuring a smooth and error-free experience.
+-	Checkout Process : Verified the end-to-end checkout workflow, from entering user details to order completion, ensuring a smooth and error-free experience.
 
 Tools and Technologies Used:
 • Selenium: For automating web application testing.
@@ -74,6 +76,7 @@ This project demonstrated my ability to automate a real-world e-commerce applica
 
 implement an efficient automation framework, and validate critical user workflows to ensure application reliability and performance.
 
+----------------------------------------------------------------------
 •	Ton Tasks Mobile app
 -	Test Focus: The Ton App is a user-friendly task management application designed to help individuals and teams efficiently manage their daily, weekly, monthly, and yearly tasks. The app offers features such as task creation, organization, and tracking, with options to make tasks public or private.
 -	Key Areas: 
@@ -90,13 +93,15 @@ implement an efficient automation framework, and validate critical user workflow
 -	Writing Test Completion Report. 
 -	Tools:  Jira, Confluence, Zephyr Scale, MS Word, and Figma.
 
+----------------------------------------------------------------------
 •	Trains Booking Website
 -	Test Focus: this website allows users to search for and book train tickets online. It typically includes features for finding available trips, selecting seats and making payments.
 -	Key Areas: Manual Testing (Scenario writing, Test cases, execution and bug reports).
 -	Tools: Trello, Zephyr Scale
-	
+
+ ----------------------------------------------------------------------
 • API-End to End-Create-New-Employee-in-Company
-  
+----------------------------------------------------------------------
 • API-Books-Store
   
 •	Screening Human Health by using Iridology Map:
@@ -113,6 +118,8 @@ implement an efficient automation framework, and validate critical user workflow
 
 ## Tools and languages
 __Jira__ - __Selenium__ - __Postman__ - __Trello__ - __Zephyr__ - __Java__ - __OOP__ - __Microsoft suite__- __Basic python__- __SQL__- __Intellij__- __Trello__- __TestNG__
+
+----------------------------------------------------------------------
 
 ## Skills
 
@@ -132,40 +139,47 @@ __Manual testing__
 *	Applying Confirmation testing. 
 *	Applying regression testing.  
 *	Writing Test Completion Report.
-*	
+  ----------------------------------------------------------------------
+
 __Mobile testing__
+----------------------------------------------------------------------
 
 __API testing__
   * know the difference between SOAP and REST APIs.
   * gained experience through manual testing of APIs created for educational purposes.
   * know how to manipulate requests and create test cases.
+----------------------------------------------------------------------
     
 __Agile Testing__
 * Jira framework -> Epic, User story and acceptance criteria, Planning poker, backlog, sprints, Traceability.
+----------------------------------------------------------------------
 
 __Exploratory testing__
   * capable of using Whittaker’s test tours and creating test charters for testing web applications.
+----------------------------------------------------------------------
 
 __Test documentation__
   * can create test cases and checklists and know-how and in which situations to use them effectively.
   * able to prepare comprehensive bug reports and provide detailed session reports.
+----------------------------------------------------------------------
 
 __SQL databases__
   * can write requests using subqueries.
   * know the difference between joins and unions and can use them in queries.
+----------------------------------------------------------------------
 
 __Performance testing basics__
+----------------------------------------------------------------------
 
 __Automation testing__
 *	Java Programming from scratch
 *	Object Oriented Programming
 *	Selenium Web-driver with Java
 *	Managing tests using TestNG
-
-
-
+----------------------------------------------------------------------
 
 ## Courses
+
 • ISTQB Foundation Level V4.0, Udemy 2024
 
 • Postman course, QACart, 2024
