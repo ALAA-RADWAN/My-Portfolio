@@ -1,6 +1,6 @@
 # Portfolio
 - [About me](#about-me)
-- [CV](#cv)
+- [Download CV and Portfolio](#cv-and-portfolio)
 - [Work Experience](#work-experience)
 - [Projects](#projects)
 - [Tools and languages](#tools-and-languages)
@@ -18,8 +18,8 @@ I would be extremely happy to apply the knowledge I have gained to test an opera
 
 
 
-## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1sm54cDI3C1APqveKgPn7hjbVkEIdv33y/view?usp=sharing).
+## CV and Portfolio
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/drive/folders/1YKygfybw3Az3fJRJKqWvdla2LScWCFhq?usp=sharing).
 
 ## Work Experience
 •	Software Test Engineer Intern at Qabilah, Saudi Arabia, Remote, Sep. 2024 –Present.
